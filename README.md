@@ -1,4 +1,0 @@
-socialstories
-=============
-
-For the app
